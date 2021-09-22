@@ -20,7 +20,7 @@
 </ul>
 Quando a gente vai desenvolver um produto, um software, estamos querendo resolver um problema. 
 
-Dependendo do tipo de problema que vamos abordar, podemos definir se faz ou não sentido seguir com a agilidade.
+<i>Dependendo do tipo de problema que vamos abordar, podemos definir se faz ou não sentido seguir com a agilidade.</i>
 
 
 ## 2.3	Manifesto Ágil
