@@ -23,6 +23,14 @@ Quando a gente vai desenvolver um produto, um software, estamos querendo resolve
 
 <i>Dependendo do tipo de problema que vamos abordar, podemos definir se faz ou não sentido seguir com a agilidade.</i>
 
+Problemas simples x complexos:
+<ul>
+  <li>Simples: quando baseado nas informações que temos no início do processo, você consegue definir uma solução.</i>
+  <li>Complexo: as condições são tão variadas, que você não consegue definir uma solução no início do processo.</i>
+    <ul>
+      <li>Ex: para o carro autônomo funcionar, você não consegue apenas dizer qual é o destino final. Você vai precisar avaliar inúmeros fatores, como o sinal aberto ou não, estradas com buraco, pedestre passando na frente. Assim, precisará provocar o sensor para ele tomar a decisão de acordo com o ambiente.</i>
+    </ul>
+</ul>
 
 ## 2.3	Manifesto Ágil
 
