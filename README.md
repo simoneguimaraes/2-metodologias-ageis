@@ -40,7 +40,7 @@ Quando a gente vai desenvolver um produto, um software, estamos querendo resolve
     <li>Valor – o produto que você de fato entrega para o seu cliente (o protótipo, Mínimo Produto Viável - MVP, modelo que entrega ao cliente);</li>
     <li>Validação – coloca o produto no mercado e vê como o cliente vai reagir (validar se a visão estava correta);</li>
   </ol>
-<li>Transparência > Inspeção > Adaptação</li>
+<li>Transparência -> Inspeção -> Adaptação</li>
 <li>Tradicional: você começa com uma visão e você a segue;</li>
   <ul>
   	<li>Você já sabe qual será a entrega ótima de valor real;</li>
