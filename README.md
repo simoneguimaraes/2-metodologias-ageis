@@ -66,7 +66,7 @@ Quando a gente vai desenvolver um produto, um software, estamos querendo resolve
 ### Estratégia de entrega
 <ul>
   <li>Gerar valor em curtos períodos, validar e, a partir disso, adaptar a entrega.</li>
-  <li>Exemplo: skate > patinete > bicicleta > moto > carro</li>
+  <li>Exemplo: skate -> patinete -> bicicleta -> moto -> carro</li>
   <li>As entregas precisam ter o potencial de resolver o problema.</li>
 </ul>
 
