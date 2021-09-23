@@ -86,6 +86,87 @@ Quando a gente vai desenvolver um produto, um software, estamos querendo resolve
 
 ## 2.3	Manifesto Ágil
 
+Até os anos 90, a forma padrão de se entregar software era pelo modelo <strong>waterfall (cascata)</strong>. 
+<ul>
+  <li>Os processos nesse modelo seguem o passo a passo como degraus de uma escada. O nome “waterfall” deve-se ao fato de que se assemelha à uma cascata.</li>
+  <li>Ele é equivalente ao modelo tradicional, é mais fácil de ser executado e dá uma <i>previsibilidade</i> maior de escopo, tempo e custo do projeto para as empresas.</li>
+</ul>
+
+No início dos anos 90, começaram a surgir os PCs e smart phones. 
+<ul>
+  <li>Com o uso pessoal dos softwares, começou a surgir a necessidade de se ter maior <i>usabilidade, experiência do usuário</i> e os problemas e softwares começaram a ficar mais complexos.</li>
+  <li>Com isso, surgiram as soluções como Scrum, XP, que são as ideias leve de desenvolvimento para gerar a entrega de forma flexível e que consiga atender as mudanças de forma rápida.</li>
+  <li>Foi criado em 2001 o <strong>Manifesto para Desenvolvimento Ágil de Software</strong> como boas práticas de diversos profissionais da indústria que já estavam utilizando soluções como Scrum e XP.</li>
+</ul>
+
+### Mentalidade: 
+<ul>
+  <li>“Estamos descobrindo maneiras melhores de desenvolver software”;</li>
+  <li>Se voce entrega algo que o cliente não quer, é importante entender que o cenário é complexo e que não tem como prever todas as possibilidades;</li>
+  <li>É preciso ser flexível à mudança;</li>
+  <li>A visão pode ser melhorada, errar não é necessariamente ruim;</li>
+  <li>Enxergar reveses como oportunidades de aprendizagem;</li>
+  <li>Adotar ciclos curtos de entregas;</li>
+  <li>Incentivar a colaboração entre a área de Negócios e Tecnologia;</li>
+  <li>Focar na entrega de valor.</li>
+</ul>
+
+### Valores:
+<ul>
+  <li>Indivíduos e interações são mais importantes que os processos e ferramentas;</li>
+  <li>Dificilmente uma pessoa só terá competência suficiente para resolver um problema complexo, então é importante que especialistas de diferentes áreas se comuniquem para desenvolver as soluções;</li>
+  <li>Software em funcionamento é mais importante que a documentação abrangente;</li>
+  <li>Colaboração com o cliente é mais importante que a negociação de contratos;</li>
+  <li>Responder a mudanças é mais importante que seguir um plano.</li>
+</ul>
+
+### Princípios:
+
+#### 1.	Projeto
+<ul>
+  <li>Satisfação ao cliente com software em funcionamento;</li>
+	<ul>
+  		<li>IKIWIS (“I Know It When I See It”): o cliente não vai saber responder se gostaria de ter uma funcionalidade sem testar o produto antes.</li>
+	</ul>
+  <li>Mudanças são sempre bem-vindas;</li>
+  <li>Entregar sempre em ciclos curtos (poucas semanas/meses);</li>
+  <li>Ritmo sustentável;</li>
+	<ul>
+		  <li>Não desgastar as equipes em pouco tempo, pois não vao aguentar os longos períodos de desenvolvimento.</li>
+	</ul>
+  <li>Progresso em função do software em funcionamento</li>
+</ul>
+
+#### 2.	Produto
+<ul>
+  <li>Simplicidade</li>
+	<ul>
+		  <li>YAGNI (“You Ain’t Gonna Need It”): utilizar o princípio de pareto 80/20 – 20% das funções dão 80% do resultado, então acelerar a entrega desses 20%.</li>
+		  <li>Exemplo: na primeira versão do iPhone, o processamento era ruim e você não podia abrir duas aplicações ao mesmo tempo. Porém, para eles era importante a usabilidade e foi nisso que focaram.</li>
+	</ul>
+  <li>Excelência técnica</li>
+	<ul>
+  		<li>Você precisa fazer o mais simples pro que você precisa, e não o mais simples por comodidade.</li>
+		<li>Débito técnico: quando cria uma solução que atende no momento, porém depois não atende mais. Depois, é preciso melhorar o código.</li>
+	</ul>
+</ul>
+
+#### 3.	Pessoas
+<ul>
+  <li>Conversação face a face;</li>
+  <li>Cliente como integrante da equipe;</li>
+  <li>Equipes auto-organizáveis;</li>
+  <li>Confiança e apoio.</li>
+</ul>
+
+#### 4.	Processo
+<ul>
+  <li>Refletir e ajustar;</li>
+	<ul>
+		  <li>O feedback rápido e aprendizado contínuo reduzem o custo de retrabalho e “overhead”.</li>
+	</ul>
+</ul>
+
 ## 2.4	Introdução ao Scrum
 
 ## 2.5	A equipe Scrum
